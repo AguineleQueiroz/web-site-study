@@ -14,7 +14,9 @@ Este projeto teve como objetivo o estudo das propriedades básicas de HTML e CSS
 * Ter as extensões para desenvolvimento com HTML e CSS instaladas no Visual Studio Code.
 
 ### Layout da Página Desenvolvida 
-![screenshots](../master/screenshots/layout.png)
+
+![screenshots](../main/screenshots/layout.png)
+
 
 ### Autor:
     Aguinele Queiroz da Silva
