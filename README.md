@@ -16,5 +16,5 @@ Este projeto teve como objetivo o estudo das propriedades básicas de HTML e CSS
 ### Layout da Página Desenvolvida 
 ![screenshots](../master/screenshots/layout.png)
 
-### AUTOR:
+### Autor:
     Aguinele Queiroz da Silva
