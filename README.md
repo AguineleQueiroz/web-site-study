@@ -16,6 +16,7 @@ Este projeto teve como objetivo o estudo das propriedades básicas de HTML e CSS
 ### Layout da Página Desenvolvida 
 
 ![screenshots](../main/screenshots/layout.png)
+![screenshots](../main/screenshots/dropdown_menu.png)
 
 
 ### Autor:
